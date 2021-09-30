@@ -43,4 +43,4 @@ When the .exe file is executed, the files and folders in the same folder are del
   
 -------------------------------------------------------
 
-https://github.com/southglory/small_works/issues/1#issue-1012595223
+https://user-images.githubusercontent.com/51065570/135526070-b4735b4f-ed4e-4d97-9c99-4c6b1a9da9ea.PNG
