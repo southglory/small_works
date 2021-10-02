@@ -24,3 +24,5 @@ mainboard : B550 GAMING CARBON
 POWER : Micronics 1050 W
 
 컴퓨터를 켤 때마다 자동으로 라즈베리파이의 코드가 실행되어 oled가 켜진다.
+
+![computer with laspberry](https://user-images.githubusercontent.com/51065570/135729015-916bcf98-e5e0-4f17-be44-668b19d7bcd6.jpg)
