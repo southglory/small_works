@@ -26,6 +26,7 @@ POWER : Micronics 1050 W
 컴퓨터를 켤 때마다 자동으로 라즈베리파이의 코드가 실행되어 oled가 켜진다. 
 (자동실행되려면 rc_local 문서 내에 다음을 추가)
 python3 /home/pi/... /myImg.py&
+
 (myImg.py와 test.py를 작성하였음.)
 
 ![computer with laspberry](https://user-images.githubusercontent.com/51065570/135729015-916bcf98-e5e0-4f17-be44-668b19d7bcd6.jpg)
