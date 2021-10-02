@@ -1,0 +1,3 @@
+sudo nano /etc/rc.local
+
+python3 lib_oled96/myImg.py
