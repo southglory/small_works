@@ -1,0 +1,4 @@
+fps = 25.0
+number of frames = 365
+duration (S) = 14.6
+duration (M:S) = 0:14.6
