@@ -1,5 +1,8 @@
 목적 : "exe 파일로 distribution"하는 법을 익히기 위한 연습 프로젝트.
 
+
+
+
 fixed bug : 
 
 1.pyinstaller로 exe를 만들때 ffmpeg가 번들되지 않는 문제
